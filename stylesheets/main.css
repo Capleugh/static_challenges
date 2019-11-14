@@ -1,0 +1,49 @@
+header {
+  padding: 35px;
+  border: 1px solid LightGray;
+  font-family: Arial, Helvetica;
+  font-size: 2.5em;
+  color: LightGray;
+  background-color: Black;
+}
+
+nav {
+  padding: 30px;
+  border: 1px solid LightGray;
+  text-align: center;
+  word-spacing: 190px;
+  font-family: Arial, Helvetica;
+  font-size: 1.5em;
+  color: LightGray;
+  background-color: #002866;
+}
+
+section {
+  background-image: url("../images/1.jpg");
+  background-size: 100% 100%;
+  width: 100%;
+  height: 750px;
+}
+
+p {
+  padding: 28px;
+  font-family: Arial, Helvetica;
+  font-size: 1.2em;
+  color: LightGray;
+  background-color: Black;
+}
+
+.lower-images {
+  padding: 40px;
+  font-family: Arial, Helvetica;
+  background-color: LightGray;
+  color: Black;
+}
+
+footer {
+  padding: 28px;
+  font-family: Arial, Helvetica;
+  font-size: 1.2em;
+  color: LightGray;
+  background-color: Black;
+}
